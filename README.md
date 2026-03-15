@@ -5,7 +5,7 @@
 ![VueUse](https://img.shields.io/badge/VueUse-useWebSocket-41b883)
 ![Pinia](https://img.shields.io/badge/Pinia-2-f7d336?logo=pinia)
 
-**[Live demo](https://bizhev.github.io/vue-realtime-board/)**
+**[Live demo](https://dbvex.github.io/vue-realtime-board/)**
 
 Kanban board with real-time sync across browser tabs via WebSocket — the same pattern used in production at МС ДИАС.
 
