@@ -104,5 +104,5 @@ npm run dev                               # http://localhost:5173
 1. New Web Service → connect repo → Root directory: `server`
 2. Build command: `npm install && npm run build`
 3. Start command: `npm start`
-4. Copy the service URL (e.g. `wss://your-app.onrender.com`)
-5. GitHub → Settings → Secrets → `VITE_WS_URL` = your URL
+4. Copy the service URL (e.g. `wss://vue-realtime-board-server.onrender.com`)
+5. GitHub → Settings → Secrets → `VITE_WS_URL` = `wss://vue-realtime-board-server.onrender.com`
